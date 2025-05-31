@@ -4,55 +4,55 @@
 <array>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
+  <string>[WCAG 2.2 Success Criterion 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
   <key>shortcut</key>
   <string>2.4.11-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
+  <string>[WCAG 2.2 Success Criterion 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
   <key>shortcut</key>
   <string>2.4.12-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
+  <string>[WCAG 2.2 Success Criterion 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
   <key>shortcut</key>
   <string>2.4.13-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/TR/WCAG22/#dragging-movements)</string>
+  <string>[WCAG 2.2 Success Criterion 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/TR/WCAG22/#dragging-movements)</string>
   <key>shortcut</key>
   <string>2.5.7-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
+  <string>[WCAG 2.2 Success Criterion 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
   <key>shortcut</key>
   <string>2.5.8-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
+  <string>[WCAG 2.2 Success Criterion 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
   <key>shortcut</key>
   <string>3.2.6-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
+  <string>[WCAG 2.2 Success Criterion 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
   <key>shortcut</key>
   <string>3.3.7-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum)</string>
+  <string>[WCAG 2.2 Success Criterion 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum)</string>
   <key>shortcut</key>
   <string>3.3.8-md</string>
  </dict>
  <dict>
   <key>phrase</key>
-  <string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
+  <string>[WCAG 2.2 Success Criterion 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
   <key>shortcut</key>
   <string>3.3.9-md</string>
  </dict>
