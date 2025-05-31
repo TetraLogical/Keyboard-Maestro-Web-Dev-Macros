@@ -611,7 +611,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/TR/WCAG22/#dragging-movements)</string>
+						<string>[WCAG 2.2 Success Criterion 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/TR/WCAG22/#dragging-movements)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -646,7 +646,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -748,7 +748,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
+						<string>[WCAG 2.2 Success Criterion 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -783,7 +783,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -853,7 +853,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -888,7 +888,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-appearance"&gt;SC 2.4.13 Focus Appearance&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-appearance"&gt;WCAG 2.2 Success Criterion 2.4.13 Focus Appearance&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -923,7 +923,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced"&gt;WCAG 2.2 Success Criterion 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -958,7 +958,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#target-size-minimum"&gt;SC 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#target-size-minimum"&gt;WCAG 2.2 Success Criterion 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1096,7 +1096,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#consistent-help"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#consistent-help"&gt;WCAG 2.2 Success Criterion 3.2.6 Consistent Help&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1131,7 +1131,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum"&gt;WCAG 2.2 Success Criterion 3.3.8 Accessible Authentication&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1166,7 +1166,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#redundant-entry"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#redundant-entry"&gt;WCAG 2.2 Success Criterion 3.3.7 Redundant Entry&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1201,7 +1201,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum"&gt;SC 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum"&gt;WCAG 2.2 Success Criterion 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1271,7 +1271,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1376,7 +1376,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)</string>
+						<string>[WCAG 2.2 Success Criterion 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1547,7 +1547,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced"&gt;SC 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced"&gt;WCAG 2.2 Success Criterion 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1651,7 +1651,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html)</string>
+						<string>[WCAG 2.2 Success Criterion 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2409,7 +2409,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"&gt;WCAG 2.2 Success Criterion 3.3.8 Accessible Authentication&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2584,7 +2584,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2802,7 +2802,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"&gt;WCAG 2.2 Success Criterion 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2837,7 +2837,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2872,7 +2872,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2907,7 +2907,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
+						<string>[WCAG 2.2 Success Criterion 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2942,7 +2942,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"&gt;SC 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"&gt;WCAG 2.2 Success Criterion 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2977,7 +2977,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"&gt;WCAG 2.2 Success Criterion 3.3.7 Redundant Entry&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3012,7 +3012,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"&gt;SC 2.4.13 Focus Appearance&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"&gt;WCAG 2.2 Success Criterion 2.4.13 Focus Appearance&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3047,7 +3047,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"&gt;WCAG 2.2 Success Criterion 3.2.6 Consistent Help&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3184,7 +3184,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3219,7 +3219,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3289,7 +3289,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"&gt;SC 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"&gt;WCAG 2.2 Success Criterion 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3324,7 +3324,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3431,7 +3431,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html)</string>
+						<string>[WCAG 2.2 Success Criterion 3.3.7 Redundant Entry (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3466,7 +3466,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html)</string>
+						<string>[WCAG 2.2 Success Criterion 3.2.6 Consistent Help (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3568,7 +3568,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)</string>
+						<string>[WCAG 2.2 Success Criterion 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3640,7 +3640,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#dragging-movements"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#dragging-movements"&gt;WCAG 2.2 Success Criterion 2.5.7 Dragging Movements&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3710,7 +3710,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"&gt;SC 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"&gt;WCAG 2.2 Success Criterion 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -3745,7 +3745,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"&gt;WCAG 2.2 Success Criterion 2.5.7 Dragging Movements&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
