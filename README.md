@@ -2,6 +2,8 @@
 
 A collection of Keyboard Maestro text expansion macros.
 
+For a demo of how this works, jump to [this point in this talk I gave at CSUN in 2023](https://youtu.be/9U5MxcWquXA?feature=shared&t=1137). If you are not a Keyboard Maestro user, but you are a Mac user, [here's how you can do this with the built-in Text Replacements in macOS/iOS](https://youtu.be/9U5MxcWquXA?feature=shared&t=1318).
+
 If you're more of an Alfred fan, Eric Bailey has your back: [Alfred WCAG workflows](https://github.com/ericwbailey/alfred-wcag-workflow)
 
 ## Trigger format
