@@ -25,4 +25,4 @@ How to trigger these text replacements:
 
 ## Downloads
 
-You can download the separate files (.kmmacros or .plist) or grab a zip for all of the [Keyboard Maestro](WCAG-Docs/Keyboard-Maestro.zip) or [macOS Text replacements](WCAG-Docs/macOS Text Replacements.zip) in one go.
+You can download the separate files (.kmmacros or .plist) or grab a zip for all of the [Keyboard Maestro](WCAG-Docs/Keyboard-Maestro.zip) or [macOS Text replacements](WCAG-Docs/macOS-Text-Replacements.zip) in one go.
