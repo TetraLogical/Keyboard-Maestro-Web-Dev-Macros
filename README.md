@@ -22,3 +22,7 @@ How to trigger these text replacements:
 * WCAG 2.1 - Understanding - Markdown link. Trigger format = <kbd>1.1.1-u-md</kbd>
 * WCAG 2.1 - Understanding - Open in browser. Trigger format = <kbd>1.1.1-u--</kbd> (Keyboard Maestro only)
 * WCAG 2.1 - Understanding - Jira link. Trigger format = <kbd>1.1.1-u-jira</kbd>
+
+## Downloads
+
+You can download the separate files (.kmmacros or .plist) or grab a zip for all of the [Keyboard Maestro](WCAG-Docs/Keyboard-Maestro.zip) or [macOS Text replacements](WCAG-Docs/macOS Text Replacements.zip) in one go.
