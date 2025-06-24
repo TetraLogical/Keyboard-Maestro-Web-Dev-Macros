@@ -4,19 +4,21 @@ VS Code snippets are keyboard shortcuts that expand into larger, predefined bloc
 
 Mac's in-build text replacements may not work in VS Code, especially if you have existing snippets in there already. You can use Python to convert and combine the Mac OS `.plist` files into a single VS code snippet file that will replicate the functionality.
 
-## [How to add as a VS code snippet](#how-to-add-as-a-vs-code-snippet)
+## [How to add the VS code snippet](#how-to-add-as-a-vs-code-snippet)
 
-<a href="all-wcag-text-replacements.code-snippets" download>Download the snippet file</a>. Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
+First, [download the snippet file](all-wcag-text-replacements.code-snippets).
+
+Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
 
 Alternatively, go to `Code > Settings > Configure Snippets > New Global Snippets File...` and paste the contents into this new file.
 
 ## How to generate a new snippet file
 
-When guidelines are updated and new `.plist` files available, follow the below instructions to generate a new snippet file.
+When guidelines are updated and new `.plist` files available, follow these instructions to **generate a new snippet file**.
 
 ### Step 1: Download all plist files
 
-If you haven't done so already, download the [macOS Text replacements](macOS-Text-Replacements) and unzip the directory.
+Download the [macOS Text replacements](macOS-Text-Replacements) and unzip the directory.
 
 ### Step 2: Download the Python script
 
@@ -39,4 +41,4 @@ This should generate a new `.code-snippets` file in the same directory.
 
 ### Step 4: Save to VS Code
 
-See [How to add as a VS code snippet](#how-to-add-as-a-vs-code-snippet) above.
+See [How to add the VS code snippet](#how-to-add-as-a-vs-code-snippet) above.
