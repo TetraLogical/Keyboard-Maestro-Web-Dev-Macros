@@ -22,7 +22,7 @@ If you haven't done so already, download the [macOS Text replacements](macOS-Tex
 
 Note, Python is required. If you are on a Mac you can install this with `brew install python`. 
 
-Save the [Python script file](convert_all_snippets.py) to the **same directory** where you've saved the `.plist` files. 
+Save the [Python script file](convert_all_snippets.py) to the **same directory** where you've saved the `.plist` files.
 
 This script will:
 1. Scan the directory where the script is run for all files ending in `.plist.`
