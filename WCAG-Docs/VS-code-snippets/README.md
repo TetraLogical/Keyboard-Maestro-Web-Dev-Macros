@@ -4,6 +4,8 @@ VS Code snippets are keyboard shortcuts that expand into larger, predefined bloc
 
 Mac's in-build text replacements may not work in VS Code, especially if you have existing snippets in there already. You can use Python to convert and combine the Mac OS `.plist` files into a single VS code snippet file that will replicate the functionality.
 
+---
+
 ## [How to add the VS code snippet](#how-to-add-the-vs-code-snippet)
 
 First, [download the snippet file](all-wcag-text-replacements.code-snippets).
@@ -11,6 +13,8 @@ First, [download the snippet file](all-wcag-text-replacements.code-snippets).
 Then open VS Code and **save it to your snippets directory**. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
 
 Alternatively, go to `Code > Settings > Configure Snippets > New Global Snippets File...` and paste the contents into this new file.
+
+---
 
 ## Future updates
 
