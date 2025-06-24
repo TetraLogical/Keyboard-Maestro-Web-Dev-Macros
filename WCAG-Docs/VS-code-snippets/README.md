@@ -20,7 +20,7 @@ If you haven't done so already, download the [macOS Text replacements](macOS-Tex
 
 ### Step 2: Download the Python script
 
-Note, Python is required. If you are on a Mac you can install this with `brew install python`. 
+Note, Python is required. If you are on a Mac you can install this with `brew install python`.
 
 Save the <a href="convert_all_snippets.py" download>Python script file</a> to the **same directory** where you've saved the `.plist` files.
 
