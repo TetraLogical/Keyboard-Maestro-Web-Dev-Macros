@@ -6,7 +6,7 @@ Mac's in-build text replacements may not work in VS Code, especially if you have
 
 ## [How to add as a VS code snippet](#how-to-add-as-a-vs-code-snippet)
 
-[Download the snippet file](all-wcag-text-replacements.code-snippets). Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
+<a href="all-wcag-text-replacements.code-snippets" download>Download the snippet file</a>. Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
 
 Alternatively, go to `Code > Settings > Configure Snippets > New Global Snippets File...` and paste the contents into this new file.
 
@@ -22,7 +22,7 @@ If you haven't done so already, download the [macOS Text replacements](macOS-Tex
 
 Note, Python is required. If you are on a Mac you can install this with `brew install python`. 
 
-Save the [Python script file](convert_all_snippets.py) to the **same directory** where you've saved the `.plist` files.
+Save the <a href="convert_all_snippets.py" download>Python script file</a> to the **same directory** where you've saved the `.plist` files.
 
 This script will:
 1. Scan the directory where the script is run for all files ending in `.plist.`
