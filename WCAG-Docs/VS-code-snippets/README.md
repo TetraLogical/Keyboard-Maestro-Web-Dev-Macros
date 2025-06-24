@@ -6,7 +6,7 @@ Mac's in-build text replacements may not work in VS Code, especially if you have
 
 ## [How to add as a VS code snippet](#how-to-add-as-a-vs-code-snippet)
 
-[Download the snippet file](WCAG-Docs/VS-code-snippets/all-wcag-text-replacements.code-snippets). Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
+[Download the snippet file](all-wcag-text-replacements.code-snippets). Then open VS Code and save it to your snippets directory. The path should look something like: `~/Library/Application Support/Code/User/snippets/all-wcag-text-replacements.code-snippets`.
 
 Alternatively, go to `Code > Settings > Configure Snippets > New Global Snippets File...` and paste the contents into this new file.
 
@@ -16,13 +16,13 @@ When guidelines are updated and new `.plist` files available, follow the below i
 
 ### Step 1: Download all plist files
 
-If you haven't done so already, download the [macOS Text replacements](WCAG-Docs/macOS-Text-Replacements) and unzip the directory.
+If you haven't done so already, download the [macOS Text replacements](macOS-Text-Replacements) and unzip the directory.
 
 ### Step 2: Download the Python script
 
 Note, Python is required. If you are on a Mac you can install this with `brew install python`. 
 
-Save the [Python script file](WCAG-Docs/VS-code-snippets/convert_all_snippets.py) to the **same directory** where you've saved the `.plist` files. 
+Save the [Python script file](convert_all_snippets.py) to the **same directory** where you've saved the `.plist` files. 
 
 This script will:
 1. Scan the directory where the script is run for all files ending in `.plist.`
